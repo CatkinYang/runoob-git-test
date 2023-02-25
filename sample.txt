@@ -1,0 +1,2 @@
+add put the change into the index
+commit record the condition of the index
